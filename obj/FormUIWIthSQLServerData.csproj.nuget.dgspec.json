@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\source\\repos\\SQLServerAccessDemo\\FormUI\\FormUI.csproj": {}
+    "C:\\Users\\ACER\\source\\repos\\SQLServerAccessDemo\\FormUI\\FormUIWIthSQLServerData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\source\\repos\\SQLServerAccessDemo\\FormUI\\FormUI.csproj": {
+    "C:\\Users\\ACER\\source\\repos\\SQLServerAccessDemo\\FormUI\\FormUIWIthSQLServerData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\SQLServerAccessDemo\\FormUI\\FormUI.csproj",
-        "projectName": "FormUI",
-        "projectPath": "C:\\Users\\ACER\\source\\repos\\SQLServerAccessDemo\\FormUI\\FormUI.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\SQLServerAccessDemo\\FormUI\\FormUIWIthSQLServerData.csproj",
+        "projectName": "FormUIWIthSQLServerData",
+        "projectPath": "C:\\Users\\ACER\\source\\repos\\SQLServerAccessDemo\\FormUI\\FormUIWIthSQLServerData.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ACER\\source\\repos\\SQLServerAccessDemo\\FormUI\\obj\\",
         "projectStyle": "PackageReference",

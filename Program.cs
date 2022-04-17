@@ -1,3 +1,5 @@
+using System.Data.SqlClient;
+
 namespace FormUI
 {
     internal static class Program
@@ -12,6 +14,8 @@ namespace FormUI
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Dashboard());
+
+            
         }
     }
 }

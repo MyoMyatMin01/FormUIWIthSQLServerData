@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\SQLServerAccessDemo\FormUI\obj\Debug\net6.0-windows\FormUIWIthSQLServerData.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\SQLServerAccessDemo\FormUI\obj\Debug\net6.0-windows\FormUI.Dashboard.resources
+C:\Users\ACER\source\repos\SQLServerAccessDemo\FormUI\obj\Debug\net6.0-windows\FormUIWIthSQLServerData.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\SQLServerAccessDemo\FormUI\obj\Debug\net6.0-windows\FormUIWIthSQLServerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\SQLServerAccessDemo\FormUI\obj\Debug\net6.0-windows\FormUIWIthSQLServerData.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\SQLServerAccessDemo\FormUI\obj\Debug\net6.0-windows\FormUIWIthSQLServerData.AssemblyInfo.cs
+C:\Users\ACER\source\repos\SQLServerAccessDemo\FormUI\obj\Debug\net6.0-windows\FormUIWIthSQLServerData.csproj.CoreCompileInputs.cache
